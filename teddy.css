@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+
+.link{
+    background-color: plum;
+    text-align: center;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 50%;
+}
